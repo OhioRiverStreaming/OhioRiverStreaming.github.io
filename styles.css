@@ -19,17 +19,17 @@
     text-align: center;
     color: white;
   }
-  
+
   /* Change background color of buttons on hover */
   .tab button:hover {
     background-color: #ddd;
   }
-  
+
   /* Create an active/current tablink class */
   .tab button.active {
     background-color: #ccc;
   }
-  
+
   /* Style the tab content */
   .tabcontent {
     display: none;
@@ -45,7 +45,7 @@
   }
 
   .weDecide{
-    background-color: purple;
+    background-color: green;
     color: white;
     font-size: 20px;
     font-weight: bold;
